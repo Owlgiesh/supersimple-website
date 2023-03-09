@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>W2F2</title>
+    </head>
+    <body>
+        <h1>Hyperlink (cont...)</h1>
+        <!--pdf documents-->
+        <a href="files/atddSW.2pdf" title = "bilangan pelajar" target = "_blank"> Students list </a>
+        
+    </body>
+</html>
